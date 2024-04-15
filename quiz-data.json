@@ -1,0 +1,214 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital city of Egypt?",
+        "answers": [
+          {
+            "text": "Alexandria",
+            "correct": false
+          },
+          {
+            "text": "Cairo",
+            "correct": true
+          },
+          {
+            "text": "Luxor",
+            "correct": false
+          },
+          {
+            "text": "Aswan",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Which ancient structure is known as the last remaining Wonder of the Ancient World?",
+        "answers": [
+          {
+            "text": "The Great Sphinx",
+            "correct": false
+          },
+          {
+            "text": "The Valley of the Kings",
+            "correct": false
+          },
+          {
+            "text": "The Pyramids of Giza",
+            "correct": true
+          },
+          {
+            "text": "The Temple of Karnak",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "What is the name of the longest river in the world that flows through Egypt?",
+        "answers": [
+          {
+            "text": "Nile River",
+            "correct": true
+          },
+          {
+            "text": "Tigris River",
+            "correct": false
+          },
+          {
+            "text": "Euphrates River",
+            "correct": false
+          },
+          {
+            "text": "Danube River",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Which ancient Egyptian goddess was depicted with the head of a cat?",
+        "answers": [
+          {
+            "text": "Isis",
+            "correct": false
+          },
+          {
+            "text": "Anubis",
+            "correct": false
+          },
+          {
+            "text": "Bastet",
+            "correct": true
+          },
+          {
+            "text": "Ra",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "What is the name of the ancient Egyptian civilization that built the pyramids and other iconic monuments?",
+        "answers": [
+          {
+            "text": "Sumerian",
+            "correct": false
+          },
+          {
+            "text": "Mesopotamian",
+            "correct": false
+          },
+          {
+            "text": "Phoenician",
+            "correct": false
+          },
+          {
+            "text": "Ancient Egyptian",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "question": "Which ancient Egyptian pharaoh is known for his famous tomb and treasures discovered by Howard Carter?",
+        "answers": [
+          {
+            "text": "Ramses II",
+            "correct": false
+          },
+          {
+            "text": "Tutankhamun",
+            "correct": true
+          },
+          {
+            "text": "Cleopatra",
+            "correct": false
+          },
+          {
+            "text": "Neferkare",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "What is the name of the ancient Egyptian hieroglyphic writing system?",
+        "answers": [
+          {
+            "text": "Cuneiform",
+            "correct": false
+          },
+          {
+            "text": "Demotic",
+            "correct": false
+          },
+          {
+            "text": "Hieratic",
+            "correct": false
+          },
+          {
+            "text": "Hieroglyphics",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "question": "Which ancient Egyptian temple complex is known for its impressive columns and statues of the pharaoh Ramses II?",
+        "answers": [
+          {
+            "text": "Temple of Philae",
+            "correct": false
+          },
+          {
+            "text": "Temple of Edfu",
+            "correct": false
+          },
+          {
+            "text": "Temple of Abu Gorab",
+            "correct": false
+          },
+          {
+            "text": "Temple of Abu Simbel",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "question": "What is the name of the ancient Egyptian god associated with the afterlife and mummification?",
+        "answers": [
+          {
+            "text": "Horus",
+            "correct": false
+          },
+          {
+            "text": "Anubis",
+            "correct": true
+          },
+          {
+            "text": "Osiris",
+            "correct": false
+          },
+          {
+            "text": "Ra",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Which ancient Egyptian site is known for its well-preserved temple and hieroglyphic inscriptions?",
+        "answers": [
+          {
+            "text": "Luxor",
+            "correct": false
+          },
+          {
+            "text": "Aswan",
+            "correct": false
+          },
+          {
+            "text": "Saqqara",
+            "correct": false
+          },
+          {
+            "text": "Dendera",
+            "correct": true
+          }
+        ]
+      }
+    ]
+  }
